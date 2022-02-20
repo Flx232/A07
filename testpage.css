@@ -16,7 +16,21 @@ img  {
 	float: left;
 	margin: 0 1em;
 }
-p {
+p1 {
 	margin: 0;
 	padding-bottom: .5em;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	font-weight: lighter;
+	color: darkred;
+	background-color: cornflowerblue;
+}
+
+li{
+	margin: 1em;
+	padding-top: .1em;
+	font-family: "JetBrains Mono";
+	font-size: 200%;
+	font-weight:bolder;
+	color: darkslategrey;
 }
